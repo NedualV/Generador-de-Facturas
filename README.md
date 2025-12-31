@@ -6,7 +6,7 @@ python install_and_run.py
 
 #En Archivos:
 
-Doble click xd
+Doble click
 
 #Imagen:
 
